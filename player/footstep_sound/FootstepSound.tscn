@@ -1,0 +1,25 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://player/footstep_sound/FootstepSound.gd" type="Script" id=1]
+[ext_resource path="res://player/footstep_sound/footstepecho03.ogg" type="AudioStream" id=2]
+[ext_resource path="res://player/footstep_sound/footstepecho00.ogg" type="AudioStream" id=3]
+[ext_resource path="res://player/footstep_sound/footstepecho02.ogg" type="AudioStream" id=4]
+[ext_resource path="res://player/footstep_sound/footstepecho04.ogg" type="AudioStream" id=5]
+[ext_resource path="res://player/footstep_sound/footstepecho05.ogg" type="AudioStream" id=6]
+
+[node name="FootstepSound" type="Spatial"]
+script = ExtResource( 1 )
+footstep_sound1 = ExtResource( 3 )
+footstep_sound2 = ExtResource( 4 )
+footstep_sound3 = ExtResource( 2 )
+footstep_sound4 = ExtResource( 5 )
+footstep_sound5 = ExtResource( 6 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.5
+one_shot = true
+
+[node name="MummyHears" type="Timer" parent="."]
+wait_time = 3.0
+
+[connection signal="timeout" from="MummyHears" to="." method="_on_MummyHears_timeout"]

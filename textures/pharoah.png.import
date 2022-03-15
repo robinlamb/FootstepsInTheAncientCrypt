@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/pharoah.png-55d8e2abab7094a90a7686bf0344d337.image"
+
+[deps]
+
+source_file="res://textures/pharoah.png"
+dest_files=[ "res://.import/pharoah.png-55d8e2abab7094a90a7686bf0344d337.image" ]
+
+[params]
+

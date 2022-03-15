@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AncientCrypt.ogg-33f2321cbf27aaece213829712197559.oggstr"
+
+[deps]
+
+source_file="res://sounds/AncientCrypt.ogg"
+dest_files=[ "res://.import/AncientCrypt.ogg-33f2321cbf27aaece213829712197559.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

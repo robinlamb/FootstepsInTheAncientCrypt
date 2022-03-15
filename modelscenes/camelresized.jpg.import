@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/camelresized.jpg-cb0aba2134209eb3ca4e7481d6d5646a.image"
+
+[deps]
+
+source_file="res://modelscenes/camelresized.jpg"
+dest_files=[ "res://.import/camelresized.jpg-cb0aba2134209eb3ca4e7481d6d5646a.image" ]
+
+[params]
+

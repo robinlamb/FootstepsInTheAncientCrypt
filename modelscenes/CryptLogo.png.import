@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/CryptLogo.png-c76ef38f9fd0b60fe63eb74c68f473bf.image"
+
+[deps]
+
+source_file="res://modelscenes/CryptLogo.png"
+dest_files=[ "res://.import/CryptLogo.png-c76ef38f9fd0b60fe63eb74c68f473bf.image" ]
+
+[params]
+

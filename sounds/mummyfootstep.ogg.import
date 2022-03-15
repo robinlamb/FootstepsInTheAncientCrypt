@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mummyfootstep.ogg-aceaa64e40a36dd1fc230d92f3347438.oggstr"
+
+[deps]
+
+source_file="res://sounds/mummyfootstep.ogg"
+dest_files=[ "res://.import/mummyfootstep.ogg-aceaa64e40a36dd1fc230d92f3347438.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/egyptianqueen.png-371a8f48cca0405cd156212648b78eb2.image"
+
+[deps]
+
+source_file="res://textures/egyptianqueen.png"
+dest_files=[ "res://.import/egyptianqueen.png-371a8f48cca0405cd156212648b78eb2.image" ]
+
+[params]
+

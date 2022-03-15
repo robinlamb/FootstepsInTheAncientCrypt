@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bookPlace1.ogg-3f83616af7e39f891a74138c2a560a33.oggstr"
+
+[deps]
+
+source_file="res://player/flashlight/bookPlace1.ogg"
+dest_files=[ "res://.import/bookPlace1.ogg-3f83616af7e39f891a74138c2a560a33.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
